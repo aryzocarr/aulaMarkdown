@@ -17,5 +17,5 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-# Engenharia de requisitos
+# Engenharia de requisitos <img src="https://media.tenor.com/pYAjdsSGlvoAAAAi/pokemon.gif" width="90px">
 
