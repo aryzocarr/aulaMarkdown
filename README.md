@@ -38,9 +38,15 @@ Engenharia de requisitos é uma disciplina dentro da engenharia de software que 
 ### Requisitos de Qualidade:
 ##### Descrevem as características de qualidade que o sistema deve possuir. Isso inclui requisitos de usabilidade, desempenho, segurança, manutenibilidade, entre outros. Por exemplo, "O sistema deve ser fácil de usar para usuários novos" ou "O sistema deve ser capaz de lidar com um grande volume de transações sem degradação de desempenho."
 
-![aryana alves de](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png)
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcXF5iAO8C0yVJJUjYRlBms_SiY_xhM8ZuXrEaC4Bhw&s)
 
 Uc 01 | nome do item clicável | descrição do botão
---------------------------------------------------
-bloa bla | kdcosadkasl
+----------- | ------------ | -------------
+UC 01 | mais (+) | Criar uma nova publicação
+UC 02 | Coração | Ver suas últimas notificações
+UC 03 | Balão de fala | Ver suas mensagens diretas
+UC 04 | Foto com o mais (+) | Adicionar um novo story
+UC 05 | Fotos com círculo colorido em volta | Ver o story das pessoas que você segue
+UC 06 | 
+
 
