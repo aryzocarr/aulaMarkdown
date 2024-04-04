@@ -47,6 +47,7 @@ UC 02 | Coração | Ver suas últimas notificações
 UC 03 | Balão de fala | Ver suas mensagens diretas
 UC 04 | Foto com o mais (+) | Adicionar um novo story
 UC 05 | Fotos com círculo colorido em volta | Ver o story das pessoas que você segue
-UC 06 | 
+
+
 
 
